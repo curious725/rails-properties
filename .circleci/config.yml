@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  cit: chime/ci-tools@dev:99b34cd
+  cit: chime/ci-tools@dev:6c46477
 
 jobs:
   build:
