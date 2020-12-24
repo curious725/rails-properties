@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  sonarcloud: sonarsource/sonarcloud@1.0.1
+  cit: chime/ci-tools@dev:99b34cd
 
 jobs:
   build:
