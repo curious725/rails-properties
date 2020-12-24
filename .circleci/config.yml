@@ -9,7 +9,7 @@ jobs:
       - image: cimg/ruby:2.7-node
     steps:
       - checkout
-      - sonarcloud/scan
+      - cit/sonarcloud-scan
 
 
 
